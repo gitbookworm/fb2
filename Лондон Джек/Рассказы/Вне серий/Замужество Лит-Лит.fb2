@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>adventure</genre>
+   <genre>humor</genre>
+   <author>
+    <first-name>Джек</first-name>
+    <last-name>Лондон</last-name>
+   </author>
+   <book-title>Замужество Лит-Лит</book-title>
+   <annotation>
+<p><strong>Собрание сочинений в четырнадцати томах</strong></p>
+<p>Том 3</p>
+<p>Сборник рассказов «Мужская верность» (1904)</p>
+     <empty-line/>
+<p>Рассказ «Замужество Лит-Лит» (<strong>The Marriage of Lit-lit</strong>) впервые опубликован в журнале <strong>«Leslie's Magazine»</strong> в сентябре 1903 года.</p>
+   </annotation>
+   <date>1903</date>
+  <coverpage><image l:href="#jlcvr.png"/></coverpage>
+  <lang>ru</lang>
+   <src-lang>en</src-lang>
+   <translator>
+    <first-name>Раиса</first-name>
+    <middle-name>Ефимовна</middle-name>
+    <last-name>Облонская</last-name>
+   </translator>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>archimedes</nickname>
+   </author>
+   <date value="2011-02-09">09.02.2011</date>
+   <src-ocr>Scan,OCR,Convert,SpellCheck: archimedes</src-ocr>
+   <id>46E0CB-3A-ZZZ</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание файла</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Собрание сочинений Том 3</book-name>
+   <publisher>Издательство «Правда»</publisher>
+   <city>Москва</city>
+   <year>1961</year>
+   <sequence name="Библиотека «Огонек»"/>
+  </publish-info>
+  <custom-info info-type="Destination">Книга оцифрована специально для библиотеки "Флибуста"</custom-info>
+ </description>
+
+ <body>
+  <title>
+   <p>Джек Лондон</p>
+   <p>Замужество Лит-Лит</p>
+  </title>
+
+<section>
+<p>Когда Джон Фокс приехал в тот край, где виски замерзает и чуть не круглый год пребывает в твердом состоянии, так что им можно пользоваться вместо пресс-папье, его не отягощал груз идеалов и иллюзий, которые обычно мешают преуспеть иным искателям приключений, не приученным сызмальства трезво смотреть на жизнь. Рожденный и выросший на Дальнем Западе, он обладал отнюдь не тонким, но здравым умом, деловой хваткой и смотрел на вещи просто, что обеспечило ему немедленный успех в Канаде на новом поприще. Он начал рядовым служащим Компании Гудзонова залива, который наравне с проводниками работает веслами и на собственном горбу перетаскивает товары через волоки, но быстро выдвинулся и стал заправлять торговлей в форте Ангела.</p>
+<p>Он смотрел на вещи просто, а потому взял жену из местного племени, и так как супружество это оказалось поистине счастливым, не знал ни постоянного беспокойства, ни неудовлетворенного желания, что отравляло существование других, более разборчивых мужчин, мешало им работать и под конец превращало их жизнь в сущий ад. Он был вполне доволен судьбой, ревностно служил Компании и через некоторое время был уже на отличном счету.</p>
+<p>Когда умерла его жена, племя предъявило права на ее тело и похоронило по местному обычаю — в жестяном ящике на вершине дерева.</p>
+<p>Она родила Фоксу двух сыновей, и когда Компания повысила его в должности, он отправился вместе с ними еще дальше, в безбрежные просторы Северо-Западной Территории — к Скале Греха, где его ждал новый пост на более важном поприще — торговле мехами. Здесь он провел несколько унылых и одиноких месяцев, с нескрываемым отвращением взирая на индейских дев, отнюдь не блещущих красотой, и непрестанно тревожась за подрастающих сыновей, которые нуждались в материнской ласке и заботе. И вдруг он увидел Лит-Лит.</p>
+<p>— Лит-Лит... как бы вам сказать... ну, она и есть Лит-Лит. — На этом обычно кончались его безнадежные попытки описать ее своему старшему приказчику Александру Мак Лину.</p>
+<p>В Мак Лине еще сильна была его шотландская закваска — «у него молоко на губах не обсохло», по выражению Джона Фокса, — поэтому он никак не мог примириться с обычаем брать в жены индианок. Однако его бы не огорчило, если б управляющий погубил свою бессмертную душу, тем более что он и сам боялся не устоять перед опасными чарами Лит-Лит, и, выйди она замуж за управляющего, испытал бы мрачное удовлетворение, ибо это спасало его собственную душу.</p>
+<p>Не удивительно, что суровая душа шотландца готова была растаять в обжигающем блеске глаз Лит-Лит. Она была хороша: стройная, гибкая, совсем не похожая на флегматичных индианок с неподвижными, бесстрастными лицами. «Лит-Лит»—так ее прозвали еще в детстве за то, что ей не сиделось на месте и она порхала, точно мотылек, за легкий, веселый нрав, за то, что она была такая хохотунья, так беззаботно бегала и скакала.</p>
+<p>Лит-Лит была дочерью метиски и Снитшейна, прославленного вождя местного племени. И, желая начать переговоры о браке, к нему-то однажды летом как бы невзначай и заглянул Джон Фокс. Они сидели с вождем у костра, разложенного перед вигвамом, чтобы отгонять москитов, и неторопливо беседовали обо всем на свете, по крайней мере, обо всем, что касалось северных краев, — словом, о чем угодно, кроме свадьбы. Джон Фокс пришел только затем, чтобы договориться о свадьбе; Снитшейн знал это, и Джон Фокс знал, что он знает, однако именно о свадьбе они свято хранили упорное молчание. Это считается признаком хитрого умения индейцев вести разговор. На самом же деле это просто-напросто наивность.</p>
+<p>Текли часы, а Фокс и Снитшейн курили трубку за трубкой, глядя друг на друга с превосходно разыгранным простодушием.</p>
+<p>Среди дня мимо с безразличным видом прошли Мак Лин и другой приказчик, Мак Тейвиш, — они держали путь к реке. Когда час спустя они возвращались, Фокс и Снитшейн вежливо спорили о количестве и качестве пороха и бекона, которые Компания дает в обмен на меха. Меж тем Лит-Лит, догадавшись, зачем пожаловал управляющий факторией, проползла под задней стенкой в вигвам и, чуть оттянув шкуру, что завешивала вход, в щелку подглядывала за двумя спорщиками у костра. Она разрумянилась, глаза блестели, гордость переполняла ее — ведь ее избрал сам управляющий (в северных краях он первое лицо после бога), — и Лит-Лит разбирало чисто женское любопытство, ей не терпелось как следует его разглядеть. От солнца, лагерных костров и непогоды лицо его стало медно-красным, почти совсем как у ее отца, и рядом с ними она казалась светлолицей. Это было приятно, но куда приятней, что он такой большой и сильный, только вот огромная черная борода немного ее напугала — уж очень это непривычно.</p>
+<p>Лит-Лит была очень молода и совсем не знала, каковы они, эти мужчины. Семнадцать раз она видела, как солнце уходило на юг и тонуло за горизонтом, и семнадцать раз оно возвращалось, и каждый день все дольше задерживалось в небе, пока наконец ночь совсем не отступала перед ним. Все эти годы Снитшейн ревниво оберегал дочь, не подпускал к ней поклонников, презрительно выслушивал молодых охотников, которые добивались ее руки, и всех отвергал, словно ей и в самом деле цены не было. Старого вождя одолевала корысть. Лит-Лит была его капиталом. И капиталом столь значительным, что он надеялся получить не какие-нибудь жалкие проценты, но неисчислимую и нескончаемую прибыль.</p>
+<p>Лит-Лит росла почти как в монастыре, насколько это возможно в индейском поселке, и теперь с тревожным девичьим любопытством смотрела на мужчину, который пришел за ней, на мужа, который научит ее всему, чего она еще не ведает, на властелина, чье слово станет для нее законом, кто будет направлять ее и повелевать ею до конца ее дней.</p>
+<p>Она выглядывала из вигвама раскрасневшаяся, взволнованная мыслями о странной судьбе, ожидающей ее, но время шло, а управляющий и отец все так же важно беседовали о чем угодно, только не о свадьбе, и девушку охватило разочарование. День клонился к вечеру, солнце опускалось все ниже и ниже, и по всему было видно, что управляющий собирается уходить. Вот он повернулся и зашагал было прочь, и сердце Лит-Лит упало, но тут же подскочило от радости, ибо он приостановился и бросил через плечо:</p>
+<p>— Да, кстати, Снитшейн, мне нужна женщина, чтоб стирала белье и чинила одежду.</p>
+<p>Снитшейн проворчал что-то и предложил Ванидани — беззубую старуху.</p>
+<p>— Нет-нет! — запротестовал Фокс. — Мне нужна жена. Я последнее время подумываю об этом, а сейчас мне вдруг пришло в голову, что, может, у тебя есть кто-нибудь на примете.</p>
+<p>Снитшейн явно заинтересовался, и управляющий вновь подошел к нему, чтобы небрежно и как бы между делом обсудить неожиданно возникшую тему.</p>
+<p>— Кату, — предложил Снитшейн.</p>
+<p>— Она кривая, — возразил управляющий.</p>
+<p>— Ласка?</p>
+<p>— У нее ноги колесом. Когда она стоит, между ними может проскочить даже Кипс, твой самый большой пес.</p>
+<p>— Синати? — невозмутимо продолжал Снитшейн.</p>
+<p>— Еще чего? — в притворном гневе закричал Джон Фокс. — Да что я, старик, что ли, что ты сватаешь мне старух? Что я, беззубый? Хромой? Слепой? Или, может, я бедняк какой-нибудь, что ни одна красивая девушка не захочет смотреть на меня? Да знаешь ли ты, кто я? Я управляющий, я богат и велик, я сила и власть, мое слово заставляет людей дрожать и повиноваться!</p>
+<p>Все это Снитшейну было как маслом по сердцу, но лицо его оставалось загадочным и непроницаемым. Он все-таки заставил управляющего сделать первый шаг. В мозгу Снитшейна, устроенном очень просто, умещалась зараз лишь одна мысль, а потому он добивался своего настойчивее, чем Джон Фокс. Ибо как ни просто был скроен Джон Фокс, он все-таки был достаточно сложен, чтобы перед его умственным взором смутно маячили несколько идей одновременно, а это мешало ему добиваться чего-то одного так же упорно и неуклонно, как вождю.</p>
+<p>Снитшейн называл одну свою соплеменницу за другой, и одну за другой Джон Фокс незамедлительно отвергал, поясняя всякий раз, почему она ему не подходит. Наконец ему все это надоело, и он опять было собрался домой. Снитшейн наблюдал за ним, не пытаясь его задержать, но Фокс в конце концов так и не ушел.</p>
+<p>— Послушай, — сказал он. — Да ведь мы оба забыли Лит-Лит. Может, она мне подойдет?</p>
+<p>Хмурое лицо Снитшейна не дрогнуло, но в глубине души он расплылся до ушей. Вот это уже победа. Еще минута — и ему пришлось бы назвать Лит-Лит, но... управляющий сам сделал первый шаг.</p>
+<p>Однако вождь на желал ничего говорить о Лит-Лит, пока не заставит белого сделать следующий шаг.</p>
+<p>— Ну что ж, — размышлял вслух управляющий. — Проверить можно только одним способом — попробовать. Так вот, — повысил он голос, — я дам за Лит-Лит десять одеял и три фунта табаку, отличного табаку.</p>
+<p>Но Снитшейн покачал головой, и это явно означало, что все одеяла и весь табак на свете не смогут возместить ему утрату Лит-Лит — средоточие всевозможных добродетелей. Когда же наконец Фокс потребовал назвать цену, он хладнокровно объявил, что ему нужны пятьсот одеял, десять ружей, пятьдесят фунтов табаку, двадцать кусков кумача, десять бутылок рома, музыкальный ящик, а сверх того — благорасположение управляющего, ну, и место у его очага.</p>
+<p>Фокса, казалось, тут же хватил удар, а потому число одеял немедленно сократилось до двухсот, вслед за чем вождь отказался от места у очага — условия неслыханного при браках между белыми мужчинами и дочерьми природы. Проторговавшись еще три часа, они в конце концов сговорились. Снитшейну предстояло получить за Лит-Лит сто одеял, пять фунтов табаку, три ружья и бутылку рома, ну, и, само собой разумеется, благорасположение, то есть, по мнению Джона Фокса, на десять одеял и одно ружье больше, чем она стоила. И, возвращаясь домой далеко за полночь, при ярком свете солнца, стоявшего в положенном месте на северо-востоке, он с досадой думал, что Снитшейн перехитрил его.</p>
+<p>Снитшейн, усталый, но гордый одержанной победой, собрался было лечь и тут увидел Лит-Лит, которая не успела выскользнуть из вигвама.</p>
+<p>— Ты сама видела, — наставительно проворчал он, — ты сама слышала. Теперь ты знаешь, твой отец мудрейший из мудрых. Самого выгодного мужа нашел я тебе. Слушайся меня, делай, как я велю, иди, когда я говорю идти, вернись, когда я приказываю вернуться, и мы наживемся на этом белом дураке, ибо он так же глуп, как велик ростом.</p>
+<p>На следующий день в лавке не торговали. Управляющий открыл перед завтраком бутылку виски к радости Мак Лина и Мак Тейвиша, задал собакам двойную порцию корма и щеголял в своих лучших мокасинах. Неподалеку от фактории полным ходом шли приготовления к потлачу. «Потлач» означает пир с раздачей подарков, и Джон Фокс хотел ознаменовать женитьбу на Лит-Лит неслыханным потлачем, чтобы щедрость жениха не уступала красоте невесты. Под вечер все племя собралось на пир. Мужчины, женщины, дети и собаки наелись до отвала; никого не обошел тороватый хозяин: ни забредших на огонек путников, ни отставших от своего племени охотников.</p>
+<p>Притихшей, готовой вот-вот расплакаться Лит-Лит бородатый супруг преподнес новое ситцевое платье, богато расшитые мокасины, покрыл ее иссиня-черные волосы ярким шелковым платком, обмотал вокруг шеи пурпурный шарф, а в придачу дал медные серьги, кольца, и целую горсть блестящих безделушек, и дешевенькие часики. Снитшейн едва сдерживался во время раздачи подарков, наконец, улучив минутку, отвел дочь в сторонку.</p>
+<p>— Не в эту ночь и не в следующую, —забубнил он, — но в одну из ночей я приду на берег реки и крикну вороном, и тогда ты встанешь с ложа твоего большого и глупого мужа и придешь ко мне.</p>
+<p>Не бойся, — поспешно продолжал он, ибо при мысли, что надо будет распроститься с новой восхитительной жизнью, лицо у Лит-Лит вытянулось. — Ведь как только ты уйдешь, твой большой и глупый муж с воплями прибежит в мой вигвам, и тогда уж дело за тобой, вопи что есть мочи, жалуйся, что, мол, и это не нравится, и то не по тебе, и что быть женой управляющего куда труднее, чем ты думала, и пусть он даст твоему бедному старику-отцу еще одеял, и табаку, и всякого товару. Так помни, ночью я закричу вороном на берегу реки.</p>
+<p>Лит-Лит кивнула, ибо знала, как опасно ослушаться отца, а потом ведь он требовал от нее так мало — лишь ненадолго разлучиться с Фоксом, который будет счастливей прежнего, когда она вернется. Она присоединилась к пирующим, и так как время шло к полуночи, Фокс позвал ее и среди шуток и громких криков, в которых особенно усердствовали почтенные индианки, повел к форту.</p>
+<p>Лит-Лит быстро поняла, как хорошо быть женой первого человека в фактории, о такой жизни она и не мечтала. Теперь ей не приходилось таскать дрова и воду, прислуживать ворчливым соплеменникам. Впервые в жизни можно было нежиться в постели, пока не подадут завтрак. И в какой постели: в чистой, мягкой, удобной, — нет, в такой постели она еще никогда не спала. А еда какая! Белый хлеб, печенье, лепешки из пшеничной муки — три раза в день, каждый день да к тому же сколько душе угодно. В такое изобилие даже поверить трудно.</p>
+<p>К тому же Фокс умел быть добрым. Одну жену он уже схоронил и знал, как править в доме, — натягивая вожжи лишь изредка, но уж тогда всерьез.</p>
+<p>— Лит-Лит здесь хозяйка, — провозгласил он за столом в утро после свадьбы. — Как она скажет, так и будет. Поняли?</p>
+<p>И Мак Лин и Мак Тейвиш поняли. К тому же они знали, что у их управляющего тяжелая рука.</p>
+<p>Но Лит-Лит не спешила пользоваться преимуществами своего положения. Следуя примеру мужа, она взяла на себя заботу о его подрастающих сыновьях, неустанно пеклась о них и при этом предоставила им некоторую свободу, как и он ей. Мальчики всем и каждому расхваливали свою новую мать; к ним присоединились Мак Лин и Мак Тейвиш, а Фокс до тех пор похвалялся радостями семейной жизни, пока рассказ о добродетелях молодой жены и довольстве мужа не стал достоянием всех жителей Скалы Греха и ее окрестностей.</p>
+<p>Тогда Снитшейн, который не спал ночей, обуреваемый мыслями об ожидавших его неисчислимых, нескончаемых прибылях, решил, что пришла пора действовать. На десятую ночь после свадьбы Лит-Лит разбудил крик ворона, и она поняла, что Снитшейн ждет ее на берегу. В упоении счастьем она забыла об уговоре, и теперь ее охватил ужас перед отцом, совсем как бывало в детстве. Долго лежала она, вся дрожа, и не хотела идти, и боялась остаться. Но в конце концов доброта Фокса, а заодно и железные мускулы и квадратная челюсть придали ей храбрости, и она пренебрегла зовом отца, и Фокс так никогда и не узнал, какую победу он одержал в эту ночь.</p>
+<p>Однако наутро она поднялась в страхе и, хлопоча по дому, то и дело вздрагивала при мысли, что вот-вот появится отец. Но время шло, и она понемногу успокоилась. Фокс громко распекал Мак Лина и Мак Тейвиша за какую-то пустячную оплошность, и его голос помог ей обрести мужество. Весь день она старалась держаться поближе к мужу, и когда увидела, как в огромной кладовой он легко, точно пуховые подушки, подхватывает и перебрасывает с места на место огромные тюки товара, она окончательно решила не слушаться отца. Кроме того, она впервые попала на склад — а Скала Греха была базой нескольких более мелких факторий, — и Лит-Лит поразили несчетные богатства, собранные здесь.</p>
+<p>Она глядела на эти богатства, а перед ее мысленным взором встал нищий отцовский вигвам, и все ее сомнения как рукой сняло. Чтобы утвердиться в своем решении, она коротко спросила пасынка:</p>
+<p>— Папа хороший?</p>
+<p>И мальчик ответил, что лучше отца нет никого на свете. В эту ночь снова каркал ворон. На следующую ночь крик его стал громче, настойчивее. Проснулся Фокс, беспокойно заворочался в постели.</p>
+<p>— Вот проклятый ворон! — выругался он.</p>
+<p>И Лит-Лит тихонько прыснула в подушку.</p>
+<p>Ранним солнечным утром в фактории, точно зловещая тень, появился Снитшейн и был послан на кухню завтракать вместе с Ванидани. Но старик наотрез отказался разделить еду с женщиной и немного погодя нагрянул к зятю в лавку, где полным ходом шла торговля. Он слышал, что дочь его оказалась бесценной жемчужиной, а значит, ему причитается еще табак, еще одеяла и еще ружья, главное — ружья... Его просто обманули, заплатили за Лит-Лит слишком дешево, и теперь он пришел добиваться справедливости. Но у Джона Фокса не было в запасе ни лишних одеял, ни справедливости. Тогда Снитшейн сообщил, что встретил у Тройной развилки миссионера и тот сказал, что небеса не благословляют такие браки и долг отца — потребовать, чтобы дочь вернулась.</p>
+<p>— Я теперь добрый христианин, — заключил Снитшейн свою речь, — и хочу, чтобы моя Лит-Лит попала на небеса.</p>
+<p>Управляющий ответил тестю коротко и недвусмысленно: послал его отнюдь не в царство небесное и, помогая сделать первые шаги по этому пути, схватил за шиворот и вытолкал за дверь.</p>
+<p>Но Снитшейн обежал вокруг дома, через кухню прокрался в гостиную и там обрушился на Лит-Лит.</p>
+<p>— Видно, ты слишком крепко спала ночью, когда я звал тебя, — начал он, грозно глядя на дочь.</p>
+<p>— Нет, я не спала, я слышала. — Сердце ее отчаянно колотилось, она задыхалась от страха, но твердо продолжала: — И в прошлую ночь я не спала и слышала тебя и в позапрошлую.</p>
+<p>И тут, испугавшись, как бы у нее не отняли ее великое счастье, Лит-Лит разразилась вдохновенной речью о положении и правах женщины. То было первое выступление «новой женщины» к северу от шестьдесят третьей параллели.</p>
+<p>Но она старалась понапрасну: Снитшейн еще не вышел из тьмы средневековья.</p>
+<p>— Сегодня я опять буду кричать вороном, — сказал он с угрозой, едва она замолкла, чтобы перевести дух.</p>
+<p>Тут вошел Джон Фокс и снова показал тестю дорогу отнюдь не в царство небесное.</p>
+<p>В ту ночь ворон кричал упорно, как никогда. Лит-Лит, которая всегда спала чутко, слышала карканье и улыбалась. Джон Фокс беспокойно заворочался. Потом он проснулся и заворочался еще беспокойнее. Он бурчал, пыхтел, ругался вполголоса и во весь голос и наконец вскочил с постели. Ощупью пробрался он в гостиную, схватил ружье, заряженное мелкой дробью и забытое там беспечным Мак Тейвишем.</p>
+<p>Крадучись, выбрался Фокс из фактории и поспешил к реке. Карканья больше не было слышно, и, растянувшись в высокой траве, Фокс стал ждать. Душистая прохлада охватила его, после дневного жара дыхание земли нежило и успокаивало. Ночь укачала Фокса, он подложил руку под голову и сперва задремал, а потом крепко уснул.</p>
+<p>А в пятидесяти ярдах, спиной к нему, опустив голову на колени, спал Снитшейн, тоже побежденный спокойствием ночи. Час спустя он проснулся и, даже не подняв головы, нарушил тишину хриплым, гортанным карканьем.</p>
+<p>Фокс пробудился — не внезапно, сразу, как просыпается цивилизованный человек, но как дикарь, — переход к бодрствованию был стремительным и плавным. При тусклом ночном свете он разглядел в траве что-то темное, поднял ружье и прицелился. Ворон закричал снова, и он нажал курок. Мгновенно смолкли однообразное пение сверчков, перебранка куропаток, оборвался и замер в испуганной тиши крик ворона.</p>
+<p>Джон Фокс кинулся вперед и схватил свою жертву. В руках у него оказались жесткие космы, и при свете звезд он увидел знакомое лицо. Он знал, как рассеивается дробь на расстоянии пятидесяти ярдов, и понял, что на плечах и спине Снитшейна живого места не осталось. И Снитшейн знал, что он знает, но об этом не было сказано ни слова.</p>
+<p>— Ты что здесь делаешь?— спросил Фокс. — Сейчас самое время дать отдых старым костям.</p>
+<p>Дробь жгла кожу, но чувство собственного достоинства не изменило Снитшейну.</p>
+<p>— Старые кости не могут отдыхать, — мрачно ответствовал он. — Я оплакиваю мою дочь Лит-Лит, дочь моя живет, но она мертвая, и она прямым путем попадет в ад белого человека.</p>
+<p>— Впредь оплакивай ее на том берегу, чтоб не слышно было в фактории, — сказал Джон Фокс, круто повернувшись, — а то ты плачешь так громко, что не даешь спать.</p>
+<p>— Сердце мое разрывается, — возразил Снитшейн, — и дни мои и ночи черны от горя.</p>
+<p>— Черны, как ворон, — сказал Джон Фокс.</p>
+<p>— Черны, как ворон, — отозвался Снитшейн.</p>
+<p>С тех пор с реки не доносится крик ворона. Лит-Лит день ото дня становится все солиднее, все почтеннее и очень счастлива. У сыновей Джона Фокса, мать которых покоится на дереве, появились сестры. Старый Снитшейн больше не показывается в фактории: долгими часами он тонким, старческим голосом клянет всех неблагодарных детей на свете, особенно свою дочь Лит-Лит. Последние годы вождя омрачены сознанием, что его обманули, и даже Джон Фокс перестал утверждать, будто он переплатил за Лит-Лит десять одеял и ружье.</p>
+</section>
+
+</body>
+
+<binary content-type="image/png" id="jlcvr.png">
+iVBORw0KGgoAAAANSUhEUgAAAMoAAAFEBAMAAACUhryHAAAAMFBMVEUEAgS0jmxkOlz00qSsorx0
+aoRcIjwkKkTEmoTcsnSOX4386sykiqRsTmQMEiTctqTM7EalAAAAB3RJTUUH2wIGBw8Smugx8gAA
+IABJREFUeJy9PW1oXFd2IbQrCOSBEyip06VrGcfZV0tGGSgaKYugEAphf4WqgUF220DWrciqwuAI
+gv1gLShZp2FxBorHabH9zMjy3ffGBP1p1pS06mrT3kquo9TZ9FajDqLWA2Ff2Lg/4mQX95xz733v
+vq+ZUZztiSW9z3Pu+f54byaPPPJI55HdgGP9xGBQOE7yOwWPuYyxkO0WuPqTuzEA0JtC/xHs4iOP
+FVwuSlAUQR8XhRcVL+ryh8Qqii4OBfORFzjpxveG+ifhRpTc3nUlNUU21L9uPvLYUK8F5U9Y69D0
+Mre5jB1I2GEkMZFfWeaurktPrm0yNwxDVhP6jjAUKArUy3pMnq6Hq/S2ujvMUUikq1Tp69/qR6OK
+FwCK0Xphvsbtsh5QQDI+1IzvdvUKfU3qJkoszCvDVYyhZfi+wYU3G5wHMjf4uV2XLnWFzwT5i7BW
+6eo7RHqhvuZTr6eZ4BO5JYKahblWsRfbmIh/26sSIiWjUJu2ugbPCY02RmEsSYgmnkaHEYoX5RMa
+gfEYWIbLElmlaCER1yjfoLXdToha6CeWQ7wILQ2R1a4dDtyUtcWbWmluYs+4eMWsMj4wZ21jeXjJ
+Qm/hFllPyoAw8vCVWMMQSZGNJXe6tAIwC1s5Ok4kkmGsBy1SQKitNGQqJhMdX9/pWlcqecQG0wO1
+xaew7FaE6PtDBh9jmst4tYaicM3ZZA1lEGJYMZwDhTCMfT+MSSTEChwtv3zUNMhB2VponNmc0zZI
++cUynQKZ5FbfLcUZsTPfN1cJFZNjCabx5bBrKetfpTryfRcgthJyD5UrkZ3QrEY7o/HSlKhiPpSL
+90quIV4WmvySLKTLHdq8hY4hqNewLVxYbTscIpWT4t04hKgAg1fH+SW1Nm1LbsKDG9s53iugTqmh
+5psA4ZEmxCyXknAN/sNrfB8k1WzSruIlkykNalHCV7CyOrXSZLWp1dXVlcmV1RW+GqxM4d7qKn8R
+dzmnnQDOr5ATuDcVL7jtxxREOoLZNghWO9RuD7XX19cHjw+uDxIcPz7488HX544dOz588JXjr8NW
+dPD1148dGxz8Xo1yl9J+NkaWAC2i1ZEO/JNS0u8ObDj4r0ObCA5tOLQNFWBb+EClbSwzVJGhRxxp
+RXMykp7nSRnT6KgtogW7XiTnYG8gko6STsbGEtGwpHpIH78RefAfIJn1vDkAby6aiykS0AJmkWQk
+J0OhYvKgkka23kqJykq7LcfTMvGijufNehJ+lAgdwxHsbONWJJuhrpPddAZJeEkdigNlS4scFhrN
+RQgDwFE0p9lxOsBJdFCSxGblBmFQelFoiiGhpySIekFReVImy4+0LWj1R1O19gwcjWSNcoeuxv14
+1bH+LaqpEHMDEYPUQbXRLFIDcDraDhxtXQfQR8ODw/IWxmkdx0x4EjknyRtGCy2MdAIi8yT86ZAS
+ImKj4xGh22vo1FPD0qWi46LRfiG49o6OQS0Q/KxUCoF/UqHtyAHgZhu143hOtDVJt2xKl7JM3L+k
+EHZrJY6CqGDh4AweEJKonihSKgEcnxBPnqxRnNyUG0LrZdDoQWRp2AYdr6KF2DuojVlvFqjB4mcj
+RB1tTMHpn6NePHliGW8fliqC36RcmWIkRurGpHyLfAv0gIQcDyMA6MZR1nZ3g/nuOvNnKDLcxpwl
+QGKujsllelHun5DScBFWClx4cwMYZpwoUmofYrqoB38akLPb3IWlDXcOiXacK00kcVMk4m3TIJBU
+WyR4BOCC3CWaGz5+i/EjcKEI3SawBt6KS2sOIy9KL+spJbgl3hkv4KgkA1NuT964fYtD5HVrNezB
+WLCJzEhKlTPyENUXVrS0SrYU3QwALx2IWwOAXrEyB+YKpdJKs8l4m/nNNRTgFi12eHbDFarqi1cZ
+FkgO02+GCsVcHfnRGU+0xTokt2/Jge8fqmGRh0FsC0uWjRmpgnBMpbCBtSv7hMos0XB0VnGOT62y
+wCeP2QE3cYc4LGBnGa/1yF9U95pebIFeRPwTYuQH453FEEOxElRzqiYWFGOdEyvQpfBhKe+gdR4C
+XuhOHccyqMMsLatoxjgWobd7kXJzlQkipwPHtoh90MwbFItB+1QsJTaWRlme/FsgJsSPsTIaULmZ
+oj75zSEo24ZYR1JJGXxLHmA6Wro2DrcQc4oKqWMA4iRlFSAxhwma9DLQ2UEMb6MhI6Al6wq2PCa7
+tqRC3Tm3kAiGSpAWur/E6DkX6Sx2F64PlmW0egh5GQaJab1QnkkkFKYYyrcYm5hdJGQvh2qIOUwy
+qhCIILPdhU5xWHp3/AVwoYC0r/SSSvEWOZeyZhjvMc0LMNDBvAKRDLXSMeJSMXMtDODPcU7Y/tR7
+DavnnF5YCmka1HI2vVnyy4EIYz+QU8kFbExCQtjiIUPDWwUMPmxR8aN4ydlTyoPsMZULYYrsi/IK
+2pqKAaac7OyEzWW5/ZJ8lRbqeW4Sx9JQNFu0NkDqDmgAtQGrx4zc0aEG4UTYPCpvr4LjuO01rRfN
+S5euxSKu3QjzPvjIHGQYE5ZVEYtSBAkte5I1ZUQDpj/1DtBoAXnp1r8hpHuxTeQiGgAaUMIOeJ2k
+esVfk5AZHl/5j6PyNbga7OAQIY9tLEblGpq5MKMAo6UKLCQmqAGIlQgdR0K59y3vJLsy7Nxpi7A5
+g74vspZcZFrJIaWwm4gamMGwRRGAqtk5qGPBEA698Izc4Rg7d3DhM84hugmo+AmOXGORoyoov5DT
+e3PEkvEV0s+Jn8vXTy7MgJLu4tUe2Br2K4qXXpqJZ5isCb4PFkbFCxbknjN3/NSceOZY5M1CvQG6
+uYvrmAVeBMZkYXhpG1zZCY9pz9NlGXQWaE1QqgIvUJBF361xFnz3ija2CExWV4AU+Zk1gS+I89ns
+b2roTdCGQzUMbCDmKay8//oZ7JW25fY0D4PXgRgFp450DS9DGdRhYdMX6lSpq3GligjjMbT77Bmp
+Wovt75PLR/I4TTZ1tGQXs1O4VF9epKxNkliH7JbqygOA0Fdkt9UNM3KrRgMv6d0io8LIbweyeKuw
+XBKKF4yMaFsDWFvKEzURBs3awUFU8Drml5bcWcN5AlBRQd6OY9ZwyW7A1H5odjehfpXUB9PvTrTF
+aX5lwQ1JQ3i2aFVK1gW95oSklwHMYsQMhBfw+LtNBgWffWtLcnW1p6iIpH9JnLOgg02hAOxowxEG
+SKz8J+1V4E0LsobMhyqOmblliVMWJB6iorovlJmHOVmKWwxKZDMhgPuuyEDV7nLmgMuK80vCSVj0
+eKmFCaxDfQtZAfiEPf+Df80FqQ4gL0zPYWw2aOhdEL6ahrUQoiVgp+DSUYmL6lahLqLxFWifK6Qd
+T2GK55aZQBlLK5ecW8q6MLZIKvjkNqnfAuSF0IMzYeAvnY2XWRtOFXCKI3Xagg1nm/HaJHpzc1Jp
+piVJLKiX1yxeEgn1smWMY6hxCGGQt2aJrW32xtQqTd74KocrNv4QWjCUPUcbS+ZjuQV3gZYeH6iW
+G2uLKFg9cvDgsWPH5o69giG47ctAoZEqV8ZUrO5b92bNQhpQw3g4VKK0pRPYGy+sz9J0BPaP11gt
+WKEhD8Yx6RqJWULqXswoO8WOj0hQQ44Z+Y/+OK4tO9usyfnksEsz0qBDvNgS660RMsJgcwD90ZgY
+UDzxjFQln4MFzVR7bXbr6BYncWxLEoywZ31uTzoILaz3BzDuQ52Ey59T5asGNnkFOVW8k15YofaL
+A0sMm1gaxZ1ER8tOmTUwWFv1tr2tbZodNuWsG1MRwtX5vaQE4+Y5u9YLti66BDcFjGrKHXkrCOEP
+UlG8vCawnSyPY6USU/k40sUklmXy1E9/RvFT3ubY3Uo5rdYUybgeU0cMEzkjCOwdH+cwNM/1kqlx
+Z4v53tZRJPrGGqRj6JymCVFTOidZNlca6M5ci6ZhihWt80Mv/rHcGj4FbrSBPctvvrztUovVtPzF
+LVd2kNlXeV8aJnCe64AxnDqwOgMh62VQQ40NH/wfKCx9VD9QOVkTyXTUsqtez1SOYlssVfcNpO5O
+Srm5fWDGgYoCWIRVHD+pORDNSCrkqJeueC12BO209FxfQZutSQcaI7l995XJDmatv5LfuPuiEjsc
+EKV66R4FWsqa1GT3+yyAAn/qp6tT3/1rDgJyXA6KOalrezDqk8bG3N6YbRiWuo1EceGLAbA5WGML
+fsBQUYEA/x9UJmu0DxHm8RwvXYCmPcaEHVXRr27i5hZrN3EixzY2t7m++kgElqyfWE3vggpTEtN1
+sjxAD4xxuidfoaVLuSFacsWsSUK/H9cwuo3Q0KOZASqqyYN/pnSZkd8TwABa3YmwFZn7j5CKlCXv
+kpeL+pEFkqnRGFgwTmtsoq9uhcuOHt+y0JHTVNUYvXSfVcYQUt53dHMfV5Vo4a44QmdWODXGipfZ
+k6bjc7uhzfcy2L9I9ZDCuYUrdc2/l4jFWtO7o9e6Jr03FP+2xCxGip5VMW1jnmd8UtTs214iJk9u
+DN9mhhfvdqlXdodWPEIYkOZ1FeFC1BI04pU7G60dvSZfejt02qaSlU1YuN3qyPjZ3m+k7p16GSUJ
+Lfj2GTzkAi8Dd3h62uOqMr1A/2GqVW6hISvw7qQWdutDPHjHD6SegIRyjnjpW2IJupsqHhM3t2uW
+dYRTGHw6d8DI1vSRCNr+0KaSvAphIc3ypXpkxcosJHuIJRY3zWFK1ZODyltF4NOghKXehUsgfkZR
+BC1qxSSNX+VU8ogAS8nowAqdPKBuPkJUYhtL+I6HZTFtMxsxnLWcyMz2wGF0/qGb1pyTUy+QZdR0
+USSdO2TrN4vqsbSIzPhNwyYVMDSEceSrtVpybSgP8WFsn2g2ymgKkNGLNdFJd0s0Ujb9ONNZLMLu
+AprknTVrOZBfZohF3YkhlTu0kdaLn+UlB2ET662ODmXRABfJHQK0f+JXunxFuh92UC8insOkjUlY
+/GRpuq34KTv+m2xbt77kHfaHZVuaW42N5f3FTeG2Vmqw6UpJ0fEOcOveZgA1n7NsqLAPwXsSKmnM
+ObBOQIC4aN4VIMntrNq31bAqWN42KwJe4pic8GI/ljQQWn+o7GnpslX9RLXUxZCO5c8w79P1oJc7
+pt93WU9IDVmihAb8vGotp4nT5ujDu/p6sZzVSz7AlGRNt0XvCWCv0sFmbCteBTZqnHvR8JYRzIKi
+Er/bE7+JFVtlbngVx+RIsRHp4s9VbS5KjjebL2CGMZJfBr3VTF+ZXnXXDlZ1SdQe60kcTSh52Fw9
+MvUSNGYHo47KXAhXIDeAh5XoxWrLzQqSNweP4hNRY8qY/m+vhWHw4uCf+DRcjjxqkYRmW1G08n7C
+kxazNWdMRxivYz/YeXSVjk5TdEEOD5kbbxi+SuqxLgXTRQqVuoyh2HwIPWMbSrFT9CKJ45pA1VLa
+jzNyl/esU7US6WUgbrtVmbHFw7WZme1pzpk/tGme70G+vxHZ0TL9ukiSmApBzWGMY9KvQ9REB4wH
+7KfLMuLxpVBdJFT6BEV406H5q6OcktRzO6CTfluEt1rQyxpvaA2gJSsq08lLkG5eRhkaKu/TIMY8
+DIN2Yk11RUAM2rK4sWA3ZKJ9N40q3QDk4Yo0glKAAlQoVmtTq38AnCUO7MnbFhWtfE0vZKVqEfRM
+vGNe5TJTkkDV/B6+PTJwN2b9RkfFZD+vly6pUsdkJ4rzixYb1f4uPkKCtH87vv5KlOjFNSj66y1b
+iodOIjZHbhxhYSA+JMLRbSORoCVLvDL3WCfHDtbJ9EKPozjBZPYqRsyNo0TTu82TwOokllz4gmvp
+oRaJRXq2BaiGZWF7a+iI5+xYbNs2FqaCe+EDGB7v/qPWBrQxmsyAPKFvC9h3hy29gI3FVKbTWHWN
+Vyo1VSfrN3qUxJyTR/TNQxsva8SI4EanrIZhookZqVZqbMMd27qUqb2WhPM/lP+jKQaiZcexOIdk
+/mb50XWycspOJJPwv5PUGDdsXmSU4cVXOBJLKBtotfR7dertESWxu02cPwOp4FZr+6TmimwM6PtK
+L1YQjiu8srwcxlksflsQdzbWhHpeIW7oaaJiu6Cv7A9umPdSE81I+SpXVAR0fdNxYZrSC7NfSOsF
+7g2D2TOUqC9aUbhrR6Gn0RYaQHG2Y1PZBbR0+dKx1SO3VL10ZNLzEuNszWUsuf/52I0kUkLcPKjq
+2Fm59SLDvuMFTJUvaYQtz+LFdnxIRGG2HccukMfby0hhTpO680Jb6rnMn2MOW9mUd+LPTgQHj+a6
+JMMNx3/xtHKvPpvY3BVJD0aUxNBQZ+htMke+wlf5QQeiTdIcDs/akd9qU5hlziw7W0biH8ok5pPY
+zxwk+c3Kb+DRreTpZTA85xVWF4AZXydrAz9hQCxwEqHv+yhYX/jusuUozt0A7l6lV4mVyUWWgoPh
+iKjoKZylBd586kdh8Pxe2Lz/BWOfLrH5+oOJiSc+mhhDotd+Sbw4pnqJAqhcgpk4BRy7pQJujRgf
+9jZ3CngBQ796femJxfHPgXBlhPnvTgzdG69UKmcuVZ6H04v3xlR14WipOa8BMppXbkOT0V5P9Uxs
+c27udvwsyfRZROdf36szf3/lPPOrY+KjJZ/NN8Izi4FbHWNcvDVKDZaT0MH8dWVgdqsW6y2INRxs
+Ri/Hepm2DIhvVOp1+Ds/ysLqSPDjkUP+fPUTvKDyDyC/D96e1i8MKCuLvB2B6R2sgF7fTEc/6MzX
+UxIz5C993KgAlbXF8V+EI2PTS3uZf6+B1dxgdcwV4+dZXPNHkt6A3g7aOOSZtpEnEjPpOWtjjaV5
+5KV9deKJyq9+d2zd9ecrxGR1bP1L2moZieGLXZ50wU112UUVuPU+QTBsdXz2Ovad+4cfIxXm1p9v
+jC4tsMCfb7ziT7us8vuHK2/jgm4ogdEDOIBpepNnej0do9TOsGPHscSSP37rnct1GhJfqv9tZXT6
+EmNP1vdceBCCliZGieuW8UnlIq8EM87c1lQcghIIsPlPfD8h4v/oXffJOjUJ4eXqKPqk/9a7dbBk
+v1G/txAqKpRf8JVhLP62h4DU7SOp0YP+4BkqLK6TLYlduved6csoMZe5P6w26CN/8+827ldDVq1X
+fkm8XNFmrF8dwzGSM8nCA/hIOPXRgGaQ4iU58V+Vv3niyTot62q1UQcRBexeY3DdFez9scujPl76
+oXbzWTOJB4Oewg+jBPhY/J/o4TifmlpdqU0Oe45d8xu4WplmxAvbB37TqJyGrR/da4Mlr0+MfVRZ
+ApsWH3ZUhvSkfp0Hrdr7xnb0+hz8d3zu+LFnBgcH2weak1PDKu9nbMy9/k2X/XPlDCB9+uxPRkee
+Ht3rLtyr0DKqI+5iZYwkNmuypGP8M45j9iY+K/XuYAOVri4+nYAoefkCqOPjkfFPKmN/URn7iD1J
+vAGV9qUHaMs/kx59+sG8x28nghi8SPUFs2qOkVhy6Lfnz8LW5SpYVqX+BeCdfmuJhffq9Cp+ZcT1
+n4IASs9e1dx6IEoIdfR/5o+j8mm+s/jBnvrfDa23Lze+6V+9//6Cf27Uf3b8i8H5xp69vwOx8zxb
+Fo3KWWsKJ60Ho2UQUyGJCXYJ9A2ecR+0Xq3Uz7vsy5+4C/PX9z5duVcZH2OVn8B1lyvjv1wA251R
+KQs2wJhnvLm5oVOnjuMnlIaOtIdOwX/++uBBiHOvqycjtl6W6hcqS5XK+xMPJqpVwdwHX/Dwv+99
+9nR9fGL8V27lPZCsqF/4fJFqAo6fOufwmz5L9VPcoX4/8RbMZM3mRubJiD+xd2h9MFQf91pnwRML
+oA8f/HjQ/2TI51RmhOvhKwxC1hAzTQhNaNK5KwXCTywZ/fDS9TX8mJYPfOPuEE3Jg0H96rBPn+UJ
+cYLtvvkmz+Ji+Thmd9oJL+EEw2RyoTL6Ofj84LUvr49MM37tAhj3/soTDIPb4aX33EX/6fGlyhkX
+PHiMhZdJXXnQ6demwulIuASVfqVSHa9URxlfrL4HdguRoPKZz/bXTxNH9xojInx2/NzZ+ufgXGfP
+AF1wVlxAs6vY7AizBApZnB9Z3NOosoUnK6cHnx5Fq4JK5nJ9L61t6Ycjbvt3K0+4T07sdb/9t2+z
+4NNzY12Qx5zZVHC5Px5rt6sXmHv/wp+za0vfYd9unEEqKDF2+X7jF5DORgbbz1Z+8em16tuMLZ7t
+h4rNywRuvAWpvTLK/rI6Iti+xhjbX32HKYkF7luN6qhYfP8ccFUfZVfrYyi2v+tBwE1T8c9g2f3k
+Z8ytnmPXgABkmxGIN+Cfh+tnglBMv1+Fo9+ungevqFbd/2ycr4Wfnj2fRWu/32A+cG6mPRqW/+0z
+RBFeRRlN3zsXftw4+y+/8yTqJXyq+kOg8nHjvBDL1QewkNP+p4vV82Uk7DrAkpiPrvs0yAbksr/y
+HBypT7DLjfHxyr36aZd9892KO/oT9nsNwOu/fwFkeXbiwSIUUIVcGDqK1k16jiyMaf9sHgQFEgNe
+OAvrF9zLlUbl3nz9txh3K2N/9v4Y+zFRuX+OHT5bXZqo/iAnMYRsC5/KLyFbeAtkA1Q+brwD3ow6
+rvz+kHu5Djrev/T2s1DG7m88B2sePQfW9x126akfWryU0PHTEgPP9L9cZvuqo+7+xmdwXWMEmHqO
+DYL2QZbnxbP3n2dXG8+xjY9GR8V/Vt8Z9D9tjPXTK+on73Rp8L8vigmBemGHoa0Q+0ZB2fXP0DVP
+s33jp9mlkfNs3whY31+Ay+9vjHG22J2KyFkyY9cgpLwH1VT1cxFUzh1ii9Uv2LWJv0GvPM0W32cB
+SmxxpCrCw/Xn2X50yGt9+b7V8UHrUhn79ti+gFUfbCzUq2Lhty88AbyAsPY3vmjPjzF/EVgQ8/fD
+wfsXzsDB7wj2342x8iGBimyhlhjXR/+98cWX74C1QanqX62cEfPnFBvomqJyOgwXz51fh0LtqT1g
+H0iF8cP98BK/QUTj3aujF5bae133g9FB5o7//cfjY26IxsYOz59exPLm6tkL//KieHccag+f/d6b
+KLH7PaiElsQUfDR//TzKbvyDjZAtvnsdQhm7fP05Ji4vjY8/WFq6voQJu32pUnkPbv648ssQ8stY
+P4OV1FsEl97ci3n2EsZ599IeaJXDS2+Ce370g3f37HnzzT1P7Xnqt/8e3Jac/NJTYJWLb55JoStJ
+MmmvVI+M19scav719TYdwiekn1QGWei6bZc9C6beDqFu5j6mdHcw+9mpwtc003OY7OOKpt5ZWDIv
+/e+j/GCFrGzw6s5LZvKS9rXwA73Bn/3ATRHoSUSkqFj3pvtpBP95s/fpB0JjLsefV05GL8kJbl/V
+HhPL6siGxYu94q7j9OxEUeCX1aD42rggfSusekTorX0T5ejKyxhFxWXlVp9Ihqt15C/tGZZT2u9/
+4Fe6kjy4zLZk8RBUYih5qZmoxF+408cQth//yOnH0j6R8OMFiYJBQQKZVyhYQTmeopJ9e3AXYuv5
+nVVCX1Ts+/2Mr/sD9V5/2l9688F7XpEoJcFmSSyxj6+PFU0NqCBJ/fVRuc+LaYviXXjoxb9PVd/j
+rq3Eh3eZIrj4yKPxkNrQ+roplb433k0zYeaKkBV9/QajYalrqotHk6X3zUSivT4MxaqTS98c6daU
+ZtdVs0+k+5cubw6LLnsx9GP2IDFDpQznLowhHZLjKA+W/GiZQ5dgD9S5omxWBKH69oZH412Cbg6Y
+vb9fCLXvP4SLdEs4xhVjXrrbkn3PV4CL5nsU3fgQ/8rISuGm7ZW/HqAp3ONfM9KCRYvExhAKNMmL
+cZUczhLy891rFygxpLCHSZh8ZXgxxm+j4/rvwydR7S99Q+HF+YOZQsrwkrmQPwzhPNGYF029ybIx
+L2AsKQSLkXSHMkvmu8RDw9VcSWftpm2spIfbPdWYuLGxLtpPsPfVo1rIM8Zo4ljeRrlSBo9303h2
+BT0smXc51y+E+JZaYRzrgt1YoJJ4LmEUvoZW9unaXlR7BBaWrtH6jcm7U7/1yhNt3UzFZPZrKpS7
+8cLjX32ZQdn6QvMdEYSjmWDKyMfa7Umt8IKEF67olt7IS2qoAitTv61i2qotf30Q9rKxPgqoJIbn
+my3FUdjF92tpFPjQ/6suRvGSvj1gZaMOnlpo3z4UXsz6i4WQF5/JUY3BcJSTTimVhwSRGFnIrO+H
+KeSf01Pb/Pcr7z7ydz3Pd4cuB8RPbGOKk4yp7DJElkNc8/eJtuy7A7q+3SxUTOa0w5PjPKHY7LGA
+ghMiMwMo9P0gv1NIo5+4wLSNdbVkhZ1nju7GwvRsvJ84xgtIlUFmlE+/L+a+dTYrnGKRdWUnlz/i
+aJlFs4J6D3rO9Evo2jv5OpmnNuK9MvvtSjSVxXr3YrzXBZnHKPm9rI1p6zSL3+XTnBxoisW8JCk+
+qJkjDwGiwF8U3vTaexPh9s1ZI8tUsAHLNTE887c3hGk6IpkopnEYXwxwi5dSyMzQ0hHHDmQ53w9y
+Gyy/il2AtrHu/UvA9DtOfdsYmWcGZzq/lEGOxNeckbsWM91GGcK+SlEJSiWiCXSr+FJgWYBVadr+
+kkLEFfJ+IMdSun5lOYkpXzHIcWH4fQ9fIVimIbGxnNR4QtiuA3hfeNPmUW5jMbbgq0VKYW2U+gtP
+k8KtKW0EvZ/SZqGEF65+asnDpBJR9fgqoZhKhheNtoZ9ZkAfl1aKsS2gv5GfVZOVeiXPHwoy83mL
+WI/nJ706Cx7bXgHZvsHkF/1pTyswcgtzmV77eiTTbWrNY9x92zEvPYM2Fk95LQ1z+y/PHt0NZGZ9
+U4XLC6wilsUfwMmLKl6hfcqUZP3ll2IIS15wEJm5VVH3aquhqQ70p5nyEXqqf7FLvKYO/X32KN1A
+aBtzDQ2ev6ak2uh75K/zS/K9ozHUWPLadLPb87gCfwmLTmu9oGDIkO16JVAxJYaEXBp7wSJy2u89
+t6z13UJqzJlq0P7e0RK9JCcLoYfMNBAvDz09yLzHm3v0bT9557vGWADZZxeaitYc23O8AAACcklE
+QVQLSb7JilRQTr1niRmaOGZ8P8igK8fdNwjzpyCOEfqYtQzV/mnbfKqYnL03sITPC0gU07JfyBCp
+Y8hL8tJLX8bWx0WpWC0S7dPqmizj60FgPerpir17kVs0UVT+yZOjcYkRpGSZh7KT9qQ3kyx5mm5/
+GBFTEsIUh2EmjvH0pu6WV3Q0LcaZg8IIE+fK3ceZQiJFQP6Swx8fwMI1oOcV+TXkjtRKQ0GXyM9L
+kNknE8naLU7qAkXlMfwOPHWNdcZksz5Y6AOyESZfsNSUWResQEE/rpyWWGD/5Ymv5K8ognJ7T6hM
+lUunmTqUcNG3kcUSsx7ja6glvRjPStKg71NJlsTyD/aoRg6S8FKKOF4dLzjJTBxLn0y0k8lsvOCi
+TFdgLcISaGmEyUG3czbyosSfsmQeX188uk4Mzp4H5o0/lwb6eWKVrjey9YGCzPIzdJEXcxMvvijQ
+fpPGXRpNio4ZvWiL7WWZPcaMReR0DSNyFzWztwQ1a4ezYt/JHrKO7+rNLhufRSidY4vEkbKxbvLK
+5GfeMyWkqTxees6GZimOtHtmIe6RRfp0cWTlzEpYBRdYryBkIExVF/ZlAX6ft96esg/XEjLZ8rME
+snNLe5nFkTHbDhRVAxlQ/w/KrlOFwN7k8eCK90Kdg/4seTe5PnWtMFQesw7y0nvLzxRWyDEpNVIu
+mCczI5/sjVxLLVO0l9JIrsn7Cy9Laix1TXLOBOkuYk3n/S74ehzrDl/XG6qpXFlA5bG+7//qsFte
++Fek8thXuq8UCidaX/+bw8VUHvt6EWpe0toEXvpQb7D713n1+JW+9FX82iSWWtXNR/5f4P8AQ6K/
+77kcP0kAAAAASUVORK5CYII=
+</binary>
+
+</FictionBook>
+

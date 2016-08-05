@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>adventure</genre>
+   <author>
+    <first-name>Джек</first-name>
+    <last-name>Лондон</last-name>
+   </author>
+   <book-title>Мужская верность</book-title>
+   <annotation>
+<p><strong>Собрание сочинений в четырнадцати томах</strong></p>
+<p>Том 3</p>
+<p>Сборник рассказов «Мужская верность» (1904)</p>
+     <empty-line/>
+<p>Рассказ «Мужская верность» (<strong>The Faith of Men</strong>) впервые опубликован в журнале 
+<strong>«Sunset Magazine»</strong> в июле 1903 года.</p>
+   </annotation>
+   <date>1903</date>
+  <coverpage><image l:href="#jlcvr.png"/></coverpage>
+  <lang>ru</lang>
+   <src-lang>en</src-lang>
+   <translator>
+    <first-name>Ирина</first-name>
+    <middle-name>Гавриловна</middle-name>
+    <last-name>Гурова</last-name>
+   </translator>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>archimedes</nickname>
+   </author>
+   <date value="2011-02-09">09.02.2011</date>
+   <src-ocr>Scan,OCR,Convert,SpellCheck: archimedes</src-ocr>
+   <id>465B10-3B-ZZZ</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание файла</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Собрание сочинений Том 3</book-name>
+   <publisher>Издательство «Правда»</publisher>
+   <city>Москва</city>
+   <year>1961</year>
+   <sequence name="Библиотека «Огонек»"/>
+  </publish-info>
+  <custom-info info-type="Destination">Книга оцифрована специально для библиотеки "Флибуста"</custom-info>
+ </description>
+
+ <body>
+  <title>
+   <p>Джек Лондон</p>
+   <p>Мужская верность</p>
+  </title>
+
+<section>
+<p>— Знаешь что, разыграем в кости.</p>
+<p>— Идет, — ответил другой и повернулся к индейцу, чинившему лыжи в углу хижины. — Эй, Билбидем, сбегай-ка к Олсону и скажи, что мы просим одолжить нам игральные кости.</p>
+<p>Эта неожиданная просьба среди разговора о жалованье рабочим, о топливе и о провизии удивила Билбидема. Кроме того, час был еще ранний, а ему не приходилось видеть, чтобы белые — во всяком случае такие, как Пентфилд и Хатчинсон, — садились за кости или карты, не покончив с делами. Однако, как и полагалось настоящему индейцу с Юкона, он ничем не выдал своего удивления и, натянув рукавицы, вышел из хижины.</p>
+<p>Хотя шел уже девятый час, было еще темно, и хижина освещалась сальной свечой, стоявшей на сосновом столе среди хаоса немытых оловянных тарелок. Свеча была воткнута в бутылку из-под виски, на длинном горлышке которой миниатюрным ледником застыло сало от бесчисленных свечей. В единственной комнатушке хижины царил такой же беспорядок, как и на столе. У задней стены виднелись нары с двумя неубранными постелями.</p>
+<p>Лоренс Пентфилд и Корри Хатчинсон были миллионерами, хотя никто не догадался бы об этом по их внешнему виду. В них не было ничего необычного — они легко сошли бы за своих в любом лагере мичиганских лесорубов. Но снаружи, во мраке, на дне зияющих ям, десятки людей, получавших по пятнадцати долларов в день, дробили каменные пласты, а другие крутили вороты, поднимая из шурфов породу, песок и золото. Каждый день золота добывалось на тысячи долларов, и все оно принадлежало Пентфилду и Хатчинсону, которые числились среди богатейших королей Бонанзы.</p>
+<p>Тишину, наступившую после ухода Билбидема, нарушил Пентфилд. Он сдвинул в кучу грязные тарелки и на освободившемся месте стал выбивать пальцами дробь. Хатчинсон снял нагар с коптившей свечи и задумчиво растер его между большим и указательным пальцами.</p>
+<p>— Черт побери, если бы мы могли уехать оба! — воскликнул он неожиданно. — И спорить было бы не о чем.</p>
+<p>Пентфилд хмуро посмотрел на него.</p>
+<p>— Если бы не твое проклятое упрямство, спорить и не пришлось бы. Тебе надо только сложить вещи и уехать. Я присмотрю за делом, а поеду в будущем году.</p>
+<p>— Почему мне? Меня никто не ждет...</p>
+<p>— А родные? — жестко прервал его Пентфилд.</p>
+<p>— А тебя ждут, — продолжал Хатчинсон. — Ты знаешь, о ком я говорю.</p>
+<p>Пентфилд угрюмо пожал плечами.</p>
+<p>— Она подождет.</p>
+<p>— Но она уже два года ждет.</p>
+<p>— Ничего, еще год ее не состарит.</p>
+<p>— Ведь это будет уже три года! Только подумай, старина: три года здесь, на краю света, в этой проклятой дыре! — Хатчинсон с отчаянием взмахнул рукой.</p>
+<p>Он был на несколько лет младше своего компаньона — ему было не больше двадцати шести. На его лице застыло выражение тоски, тоски человека, тщетно жаждущего того, чего он давно лишен. И та же тоска, то же отчаяние было на лице Пентфилда, в его сгорбленных плечах.</p>
+<p>— Мне вчера снилось, что я у Зинкенда, — сказал он. — Музыка, звон стаканов, гул голосов, женский смех, а я заказываю яйца — да, сэр, яйца: и крутые, и всмятку, и яичницу, и омлет — и уплетаю так, что подавать не успевают.</p>
+<p>— А я бы заказал салат, — алчно перебил Хатчинсон, — и большой бифштекс с зеленью, с молодым луком и редиской, чтобы на зубах хрустело.</p>
+<p>— Я бы это все заказал после яиц, если бы не проснулся, — вздохнул Пентфилд.</p>
+<p>Он поднял с пола видавшее виды банджо и рассеянно потрогал струны. Хатчинсон вздрогнул и тяжело вздохнул.</p>
+<p>— Брось! — закричал он с неожиданной яростью, когда Пентфилд начал наигрывать веселый мотив. — С ума можно сойти. Невыносимо.</p>
+<p>Пентфилд бросил банджо на нары и продекламировал:</p>
+<poem>
+<stanza>
+<v>Выдав тайную тоску, пою я так:</v>
+<v>Память, пытка — я, я — город на заре,</v>
+<v>Я — все то, о чем напомнить может фрак.</v>
+</stanza>
+</poem>
+<p>Его товарищ тяжело уронил голову на руки. Пентфилд снова монотонно забарабанил по столу. Затем его внимание привлек громкий треск двери. На ней белой пеленой оседал иней. Пентфилд тихо запел:</p>
+<poem>
+<stanza>
+<v>Стада в хлевах, и в море вновь</v>
+<v>Из рек ушел лосось;</v>
+<v>Когда б с тобой, моя любовь,</v>
+<v>Побыть мне довелось.</v>
+</stanza>
+</poem>
+<p>Потом снова наступило молчание, нарушенное приходом Билбидема, который бросил на стол игральные кости.</p>
+<p>— Большой холод, — сказал он. — Олсон говорил мне, вчера Юкон замерзал.</p>
+<p>— Слышишь, старик? — вскричал Пентфилд, хлопая Хатчинсона по плечу. — Кто выиграет, тот завтра в это время будет уже на пути в благословенный край!</p>
+<p>Он весело встряхнул стаканчик с костями.</p>
+<p>— Как играем?</p>
+<p>— Простой покер, — ответил Хатчинсон. — Бросай.</p>
+<p>Пентфилд с грохотом столкнул со стола посуду и бросил кости. Оба поспешно наклонились. Не было ни одной пары, а самым крупным очком была пятерка.</p>
+<p>— Пустышка! — ахнул Пентфилд.</p>
+<p>После долгих размышлений он собрал в стаканчик все пять костей.</p>
+<p>— На твоем месте я бы оставил пятерку, — заметил Хатчинсон.</p>
+<p>— Ну нет. Вот посмотришь, что сейчас будет! — сказал Пентфилд и выбросил кости.</p>
+<p>Снова ни одной пары. На этот раз счет шел от двойки до шестерки.</p>
+<p>— Опять пустышка! — простонал Пентфилд. — И не бросай, Корри. Ты уже выиграл.</p>
+<p>Его товарищ молча собрал кости, погремел ими в стаканчике, широким движением выбросил на стол и увидел, что у него тоже выпала пустышка с шестеркой.</p>
+<p>— Во всяком случае, ничья, но мне нужно что-нибудь получше, — сказал он и, собрав четыре кости, оставил шестерку. — Вот и конец тебе.</p>
+<p>Но на столе лежали двойка, тройка, четверка и пятерка — снова пустышка, такая же, как у Пентфилда.</p>
+<p>Хатчинсон вздохнул.</p>
+<p>— Такое бывает раз в сто лет, — сказал он.</p>
+<p>— Раз в миллион лет, — отозвался Пентфилд, быстро собрал кости и бросил их. Выпали три пятерки; он долго встряхивал стаканчик и наконец при повторном броске был вознагражден еще одной. Хатчинсон, казалось, потерял всякую надежду.</p>
+<p>Но у него сразу же выпали три шестерки. В глазах его партнера появилась неуверенность, а в его взгляде вновь вспыхнула надежда. Еще одна шестерка — и он отправится по льду к Соленой Воде, в Штаты. Он встряхнул стаканчик, хотел выбросить, заколебался и продолжал встряхивать.</p>
+<p>— Давай! Давай! Не тяни! — резко крикнул Пентфилд. Стараясь сохранить хладнокровие, он так крепко вцепился в край стола, что у него согнулись ногти.</p>
+<p>Кости покатились. На столе лежала шестерка. Они, не шевелясь, глядели на нее. Наступило долгое молчание. Хатчинсон украдкой посмотрел на своего партнера, который, перехватив его взгляд, криво улыбнулся, пытаясь казаться равнодушным.</p>
+<p>Хатчинсон вскочил на ноги и рассмеялся. Смех был нервный и смущенный. В этой игре выиграть было тяжелее, чем проиграть. Хатчинсон подошел к своему другу, но тот яростно на него набросился:</p>
+<p>— Заткнись, Корри! Я знаю все, что ты скажешь, — что предпочтешь остаться, чтоб ехал я, и все такое. Так что помолчи. Тебя ждут родные в Детройте, и этого довольно. И потом ты можешь сделать для меня то, ради чего, собственно, я хотел ехать.</p>
+<p>— То есть?..</p>
+<p>Пентфилд в его глазах прочел то, что он не договорил, и ответил:</p>
+<p>— Да, вот именно. Ты можешь привезти ее сюда ко мне. Свадьба будет в Доусоне, а не в Сан-Франциско, вот и вся разница.</p>
+<p>— Ты с ума сошел! — запротестовал Корри Хатчинсон. — Как это я ее повезу? Она мне не сестра, не родственница, я с ней даже не знаком. Сам понимаешь, что нам ехать вместе не совсем удобно. Мы-то с тобой знаем, что все было бы в порядке, но подумай, что об этом скажут другие!</p>
+<p>Пентфилд глухо выругался, послав «других» в область менее морозную, чем Аляска.</p>
+<p>— Вот если бы ты слушал, а не лез бы сразу со своим благородством, — продолжал его компаньон, — ты бы понял, что самое правильное при данных обстоятельствах — это мне отпустить тебя в этом году. Следующего года ждать всего только год, а тогда я смогу отвести душу.</p>
+<p>Пентфилд покачал головой, хотя было видно, что он с трудом противится соблазну.</p>
+<p>— Ничего не выйдет, Корри, старина. Я ценю твою доброту, но ничего не выйдет. Я бы не мог там сидеть спокойно, зная, что ты тут надрываешься вместо меня!</p>
+<p>Вдруг его осенила какая-то мысль. Он кинулся к нарам, переворошил в спешке всю постель, извлек наконец блокнот и карандаш, уселся за стол и начал быстро и уверенно писать.</p>
+<p>— Ну вот, — сказал он, сунув записку в руку своего компаньона. — Доставь только по адресу, и все устроится.</p>
+<p>Хатчинсон прочитал записку и положил ее.</p>
+<p>— Откуда ты знаешь, что этот братец согласится поехать в нашу дыру? — усомнился он.</p>
+<p>— Он согласится ради меня и ради сестры, — настаивал Пентфилд. — Видишь ли, он неженка, и я не хотел, чтобы она ехала с ним одним. А если рядом будешь ты, можно ничего не опасаться. Как только выберешься, поезжай во Фриско и объясни ей все. Оттуда отправляйся на Восток к своим. А весной заедешь за ними. Она наверняка тебе сразу понравится. Вот погляди, чтобы узнать ее при встрече.</p>
+<p>С этими словами он открыл крышку часов и показал фотографию, приклеенную внутри. Корри Хатчинсон смотрел, и в его глазах росло восхищение.</p>
+<p>— Ее зовут Мэйбл, — продолжал Пентфилд. — Я уж заодно объясню тебе, как найти их дом. Когда приедешь во Фриско, возьми кеб и скажи: «К дому Холмса, Мирдон-авеню». Можно, впрочем, обойтись и без Мирдон-авеню. Всякий извозчик знает, где живет судья Холмс.</p>
+<p>И знаешь что, — вновь начал Пентфилд после паузы, — неплохо было бы, если бы ты мне кое-что купил, ну... ну...</p>
+<p>— То, что нужно семейному человеку, — докончил Хатчинсон с улыбкой.</p>
+<p>Пентфилд смущенно улыбнулся в ответ.</p>
+<p>— Вот-вот! Салфетки и скатерти, простыни и наволочки и прочее. Сервиз получше Ведь ей нелегко будет освоиться тут. Можешь отправить все пароходом через Берингово море. И еще, пожалуй... Что ты скажешь насчет рояля?</p>
+<p>Хатчинсон горячо одобрил эту мысль. Он уже забыл о своих протестах, и возложенная на него миссия все больше и больше увлекала его.</p>
+<p>— Ей-богу, Лоренс, — заявил он, когда разговор закончился и оба встали, — доставлю с шиком! Возьму на себя и стряпню и собак, а братцу останется только заботиться о ее удобствах и делать для нее то, что я забуду, хотя я, черт побери, забывать ничего не собираюсь.</p>
+<p>На следующий день Лоренс Пентфилд в последний раз пожал руку своему другу и долго смотрел, как он и его упряжка спешили по замерзшему Юкону вверх, к Соленой Воде, в широкий мир. Пентфилд вернулся на прииск в Бонанзе, где теперь стало гораздо тоскливее, и мужественно встретил долгую зиму. Надо было заниматься делом — следить за рабочими, руководить разведкой капризной жилы, — но работа не увлекала его. И никакая работа не увлекала его, пока на холме за прииском не начала расти новая бревенчатая хижина. Это была замечательная хижина, добротно построенная, разделенная на три удобные комнаты. Каждое бревно было тщательно обтесано — дорогая прихоть, если плотникам приходится платить по пятнадцати долларов в день. Но Пентфилда не пугали никакие расходы, когда дело касалось дома, предназначенного для Мэйбл Холмс. Он занимался постройкой хижины и пел:</p>
+<poem>
+<stanza>
+<v>Когда б с тобой, моя любовь,</v>
+<v>Побыть мне довелось.</v>
+</stanza>
+</poem>
+<p>Кроме того, он повесил над столом календарь и каждое утро начинал с того, что вычеркивал день и пересчитывал, сколько еще дней остается до весны, когда его компаньон примчится по льду Юкона.</p>
+<p>Пентфилд никому не позволял ночевать в новой хижине — это тоже была прихоть: до приезда Мэйбл хижина должна была оставаться такой же новой, как ее свежеобтесанные балки. И когда постройка была закончена, Пентфилд повесил на дверях замок. Никто, кроме самого Пентфилда, не входил туда, а он оставался там часами, и когда выходил, на лице его была странная нежность, а глаза светились тепло и радостно.</p>
+<p>В декабре пришло письмо от Корри Хатчинсона. Он только что познакомился с Мэйбл Холмс. Она оказалась именно такой, какой должна быть жена Лоренса Пентфилда, писал Корри. Он был в полном восторге, и это письмо заставило сердце Пентфилда забиться быстрее. Теперь письма приходили одно за другим, а порою, если почта задерживалась, даже по два или по три зараз. И все они были об одном и том же: Корри только что вернулся от Холмсов, или Корри собирается к Холмсам, или Корри сейчас у Холмсов. Он, казалось, не торопился покинуть Сан-Франциско и даже не упоминал о поездке в Детройт.</p>
+<p>Лоренсу Пентфилду начинало казаться, что его компаньон слишком уж долго задерживается в обществе Мэйбл Холмс, забывая о своих родных. Временами Пентфилд ловил себя на том, что это его тревожит. Но он слишком хорошо знал Мэйбл и Корри, чтобы тревожиться всерьез.</p>
+<p>Письма Мэйбл, в свою очередь, были полны Корри. С другой стороны, когда речь заходила о ее приезде и о свадьбе в Доусоне, в них сквозила робость и нерешительность. Пентфилд отвечал весело, подшучивая над ее опасениями, которые, как ему казалось, были порождены скорее страхом перед лишениями и опасностями, чем девичьей застенчивостью.</p>
+<p>Но томительное ожидание и третья бесконечная зима начинали сказываться на нем. Руководство работами и разведка жилы не могли скрасить монотонность его существования, и в конце января Пентфилд зачастил в Доусон, где можно было на время забыться за игорным столом. Он выигрывал, так как мог позволить себе роскошь проиграть, и выражение «везет, как Пентфилду» вошло в обиход у игроков в фараон.</p>
+<p>Удача не покидала его до середины февраля. Трудно сказать, когда она изменила бы ему, потому что после одной крупной игры он больше не брал карт в руки.</p>
+<p>На этот раз игра шла в «Опере», и в течение часа каждая карта Пентфилда выигрывала. В перерыве, пока банкомет тасовал колоду, владелец стола Ник Инвуд вдруг сказал:</p>
+<p>— Между прочим, Пентфилд, кажется, ваш компаньон времени даром не теряет?</p>
+<p>— Да, Корри умеет развлекаться, — ответил Пентфилд. — Особенно когда он это заслужил.</p>
+<p>— Дело вкуса, конечно, — рассмеялся Ник Инвуд, — но, по-моему, развлекаться и жениться — не совсем одно и то же.</p>
+<p>— Корри женился? — недоверчиво воскликнул Пентфилд, не сумев скрыть своего удивления.</p>
+<p>— Именно, — ответил Инвуд. — Это напечатано в газете из Фриско, которая пришла с утренней почтой.</p>
+<p>— Ну, а кто же она? — поинтересовался Пентфилд с терпеливой невозмутимостью человека, знающего, что его разыгрывают и что в любую минуту может раздаться взрыв смеха.</p>
+<p>Ник Инвуд вытащил газету из кармана и стал просматривать ее, заметив:</p>
+<p>— У меня на имена память плохая, но как будто Мэйбл... Мэйбл... ага, вот: Мэйбл Холмс, дочь какого-то судьи Холмса ..</p>
+<p>Лоренс Пентфилд и бровью не повел, хотя в душе лихорадочно гадал, известно ли кому-нибудь на Севере это имя. Он спокойно обвел взглядом слушателей, ожидая, что кто-нибудь выдаст себя, но их лица выражали только обыкновенное любопытство. Тогда он повернулся к Инвуду и сказал спокойным, ровным тоном:</p>
+<p>— Ник, вот эти пятьсот долларов берутся доказать, что в газете ничего подобного нет.</p>
+<p>Тот посмотрел на него с недоуменной улыбкой.</p>
+<p>— Нет, голубчик, мне ваши деньги не нужны.</p>
+<p>— Я так и думал! — насмешливо бросил Пентфилд и, повернувшись к столу, поставил на две карты.</p>
+<p>Ник Инвуд покраснел и, как будто не доверяя себе, внимательно перечитал коротенькую заметку, а затем резко повернулся к Лоренсу Пентфилду.</p>
+<p>— Послушайте, Пентфилд, — взволнованно и торопливо заговорил он. — Я этого так оставить не могу.</p>
+<p>— Чего этого? — грубо переспросил Пентфилд.</p>
+<p>— По-вашему, я солгал?</p>
+<p>— Ничего подобного. По-моему, вы просто глупо пошутили.</p>
+<p>— Вы ставите, джентльмены? — вмешался банкомет.</p>
+<p>— Но я же вам говорю, что это правда! — настаивал Инвуд.</p>
+<p>— А я уже вам говорил, что у меня есть пятьсот долларов, которые берутся доказать, что в газете этого нет.</p>
+<p>И Пентфилд бросил на стол тяжелый мешок с золотым песком.</p>
+<p>— Не нужны мне ваши деньги, но раз вы настаиваете... — С этими словами Инвуд сунул газету Пентфилду.</p>
+<p>Пентфилд смотрел и не мог заставить себя поверить. Он скользнул взглядом по заголовку «С Севера мчался младой Лохинвар<a l:href="#n_1" type="note">[1]</a>» и пробежал заметку; перед его глазами мелькнули рядом имена Мэйбл Холмс и Корри Хатчинсона. Тогда он заглянул на первую страницу — газета была из Сан-Франциско.</p>
+<p>— Деньги ваши, Инвуд, — сказал он с коротким смешком. — Если уж мой компаньон начнет, одному богу известно, где он остановится.</p>
+<p>Затем Пентфилд вернулся к заметке и медленно прочел ее, слово за словом. Сомнений больше не было. Корри Хатчинсон действительно женился на Мэйбл Холмс. «Один из королей Бонанзы, — говорилось в заметке о новобрачном, — компаньон Лоренса Пентфилда (еще не забытого обществом Сан-Франциско), владеющий вместе с ним многими богатствами Клондайка». А дальше, в конце, он прочел: «Говорят, что мистер и миссис Хатчинсон на некоторое время уедут на Восток, в Детройт, но свой настоящий медовый месяц они проведут в путешествии по сказочному Клондайку».</p>
+<p>— Я вернусь. Сохраните мне место, — сказал Пентфилд, поднимаясь и забирая мешок, который тем временем успел побывать на весах и вернулся к владельцу облегченный на пятьсот долларов.</p>
+<p>Пентфилд вышел на улицу и купил газету из Сиэтла. В ней были те же факты, только более кратко изложенные. Несомненно, Корри и Мэйбл поженились. Он вернулся в «Оперу» и, заняв свое место, предложил играть без ограничения ставки.</p>
+<p>— Я вижу, вам нужен размах, — засмеялся Ник Инвуд, кивая банкомету. — Я собирался было сходить на склады Компании, но, пожалуй, останусь. Покажите-ка, на что вы способны.</p>
+<p>И Лоренс Пентфилд показал: после двухчасовой отчаянной игры банкомет откусил кончик свежей сигары, чиркнул спичкой и объявил, что банк сорван. Пентфилд выиграл сорок тысяч. Он пожал руку Нику Инвуду и заявил, что эта его игра — последняя.</p>
+<p>Никто не знал, никто не догадывался, что ему был нанесен удар — и тяжелый удар. Внешне он совсем не изменился. Всю неделю он занимался делами, как обычно, но в субботу ему на глаза попалась портлендская газета с описанием свадебной церемонии. Тогда он оставил прииск на попечение одного из друзей и отправился на собаках вверх по Юкону. Он двигался по дороге к Соленой Воде, а потом свернул на Белую реку. Через пять дней он увидел лагерь местных индейцев. Вечером был устроен пир, и Пентфилд сидел на почетном месте, рядом с вождем. На следующее утро он погнал собак назад к Юкону, но теперь он был не один. Молодая скво кормила в этот вечер его собак и помогала ему приготовить ночлег. В детстве ее помял медведь, и она прихрамывала. Звали ее Лашка. Сперва она боялась чужого белого, который явился из Неведомого и взял ее в жены, не сказав ей ни слова, даже не взглянув на нее, а теперь увозил в Неведомое.</p>
+<p>Но в отличие от большинства индейских девушек, которых выбирают себе в подруги белые Севера, Лашке посчастливилось: в Доусоне связавший их языческий брак был подтвержден священником по обрядам белых. Из Доусона, где все казалось Лашке чудесным сном, Пентфилд отвез ее на прииск в Бонанзу и водворил в новой хижине на холме.</p>
+<p>Сенсацию произвело не то, что Лоренс Пентфилд разделил ложе и кров с индианкой, а то, что он узаконил это сожительство брачной церемонией. Церковный брак? Этого никто не мог понять. Но Пентфилда оставили в покое — местное общество было терпимо ко всяким причудам, если только они не шли ему во вред. Пентфилд даже не потерял доступа в дома, где были белые хозяйки: свадебная церемония не позволяла относиться к нему просто как к белому, сожительствующему с индианкой, его нельзя было упрекнуть в безнравственности, хотя многие мужчины не одобряли его выбор.</p>
+<p>Писем из Сан-Франциско больше не было. Шесть нарт с почтой погибли у Большого Лосося. Кроме того, Пентфилд знал, что новобрачные должны уже быть в Клондайке и что их свадебное путешествие близится к концу, то путешествие, о котором он мечтал в течение двух томительных лет. От этой мысли у него горько кривились губы, но он скрывал свои чувства и только становился добрее к Лашке.</p>
+<p>Прошел март, и уже близился конец апреля, когда однажды утром Лашка попросила разрешения съездить к сивашу Питу, хижина которого была в нескольких милях ниже по речке. Жена Пита, индианка с реки Стюарт, прислала сказать, что у нее заболел ребенок, а Лашка, поистине созданная для материнства, глубоко верила в свои познания по части детских болезней и была всегда готова нянчить чужих детей, пока судьба не послала ей своего.</p>
+<p>Пентфилд запряг собак и, усадив Лашку на нарты, отправился вниз по руслу Бонанзы. В воздухе пахло весной. Мороз уже не обжигал, как прежде, и, хотя земля была еще покрыта снегом, шорохи и журчание воды говорили о том, что железная хватка зимы слабеет. Местами тропа была залита водой, и приходилось объезжать полыньи. Как раз у такого места, где не могли разъехаться двое нарт, Пентфилд услышал звон приближающихся колокольчиков и остановил собак.</p>
+<p>Из-за изгиба реки появилась усталая упряжка собак, тянувших тяжело нагруженные нарты. Что-то в фигуре мужчины, погонявшего собак, показалось Пентфилду знакомым. За нартами шли две женщины. Пентфилд снова перевел взгляд на погонщика — это был Корри. Пентфилд стоял и ждал. Он был рад, что Лашка с ним. Более удачную встречу было бы трудно устроить и нарочно, подумал он. Ожидая, он старался представить, что они скажут, что они могут сказать. Ему говорить было незачем: объяснять должны были они, и он был готов выслушать их объяснения.</p>
+<p>Когда упряжки поравнялись, Корри заметил его и остановил собак.</p>
+<p>— Здорово, старина! — воскликнул он и протянул руку.</p>
+<p>Пентфилд пожал ее холодно и молча. Тем временем подошли женщины, и во второй он узнал Дору Холмс. Он пожал ей руку, сняв меховую шапку, и повернулся к Мэйбл. Она сделала движение навстречу, красивая и сияющая, но как будто растерялась при виде его протянутой руки. Он собирался сказать: «Здравствуйте, миссис Хатчинсон», — но слова «миссис Хатчинсон» почему-то застряли у него в горле, и он только пробормотал:</p>
+<p>— Здравствуйте.</p>
+<p>Положение получилось настолько неприятное и неловкое, что он мог быть доволен. Мэйбл была смущена и взволнована. Дора, которую, видимо, захватили в качестве посредницы, заговорила:</p>
+<p>— Послушайте, Лоренс, что случилось?</p>
+<p>Не дав ему ответить, Корри потянул его за рукав и отвел в сторону.</p>
+<p>— Слушай, старина, что это значит? — спросил он шепотом, указывая глазами на Лашку.</p>
+<p>— А собственно говоря, Корри, какое тебе дело? — насмешливо сказал Пентфилд.</p>
+<p>Но Корри продолжал настаивать:</p>
+<p>— Что эта скво делает на твоих нартах? Хорошую задачу ты мне задал — объяснить это им. Надеюсь, однако, что какое-то объяснение есть? Кто она? Чья это скво?</p>
+<p>И вот тут Лоренс Пентфилд нанес свой удар. Нанося его, он почувствовал прилив спокойного удовлетворения, которое, казалось, до некоторой степени искупало причиненное ему зло.</p>
+<p>— Это моя скво, — сказал он. — Миссис Пентфилд, с вашего разрешения.</p>
+<p>У Корри Хатчинсона перехватило дыхание. Пентфилд отвернулся от него и подошел к женщинам. Лицо Мэйбл было тревожным, и она, казалось, не была склонна разговаривать. Он как ни в чем не бывало обратился к Доре:</p>
+<p>— Как прошло путешествие? Очень мерзли на стоянках?</p>
+<p>А как себя чувствует миссис Хатчинсон? — спросил он затем, бросив взгляд на Мэйбл.</p>
+<p>— Глупыш вы милый! — воскликнула Дора, обнимая и тормоша его. — Значит, вы тоже прочли? Так вот почему вы себя так странно держали!</p>
+<p>— Я... я не понимаю... — пробормотал он.</p>
+<p>— В следующем номере дали поправку, — болтала Дора. — Нам и в голову не приходило, что этот выпуск попадется вам на глаза. В других газетах все было правильно. Но, конечно, именно этот злосчастный листок попался вам в руки.</p>
+<p>— Постойте, о чем вы говорите? — перебил Пентфилд. Его сердце сжалось от неожиданного страха. Он почувствовал себя на краю пропасти.</p>
+<p>А Дора все не умолкала:</p>
+<p>— Знаете, когда стало известно, что Мэйбл и я уезжаем в Клондайк, в «Еженедельнике» напечатали, что с нашим отъездом на Мирдон-авеню станет густо, — что, конечно, означало «пусто».</p>
+<p>— Так, значит ..</p>
+<p>— Я миссис Хатчинсон, — ответила Дора. — А вы-то думали, что это Мэйбл?</p>
+<p>— Именно так, — медленно проговорил Пентфилд. — Теперь я понял. Репортер перепутал имена, а газеты в Сиэтле и Портленде перепечатали, как было.</p>
+<p>Он замолчал. Мэйбл снова повернулась к нему, и он увидел, что она ждет. Корри с большим интересом рассматривал рваный носок своего мокасина, а Дора искоса поглядывала на невозмутимое лицо сидевшей на нартах Лашки. Лоренс Пентфилд смотрел прямо перед собой в безнадежное будущее, где он видел только упряжку собак, себя и рядом — хромую Лашку.</p>
+<p>Затем он заговорил, очень просто, глядя в глаза Мэйбл:</p>
+<p>— Простите. Мне и в голову не приходила такая ошибка. Я думал, что вы вышли за Корри. Там, на нартах, миссис Пентфилд...</p>
+<p>Мэйбл Холмс бессильно повернулась к сестре — казалось, на нее внезапно обрушилось все утомление тяжелого пути. Дора подхватила ее. Корри Хатчинсон все еще не мог оторвать взгляд от своих мокасин.</p>
+<p>Пентфилд посмотрел на него, на обеих женщин и пошел к нартам.</p>
+<p>— Надо ехать: ребенок Пита не может ждать нас весь день, — сказал он Лашке.</p>
+<p>Длинный бич свистнул, собаки натянули постромки, нарты дернулись и помчались вперед.</p>
+<p>— Слушай, Корри! — крикнул Пентфилд, обернувшись. — Ты можешь занять старую хижину. Она теперь пустует. Я построил новую на холме.</p>
+</section>
+</body>
+
+<body name="notes">
+<title>
+ <p>Примечания</p>
+</title>
+ <section id="n_1">
+  <title>
+   <p>1</p>
+  </title>
+<p>Лохинвар — один из героев поэмы «Мармион» Вальтера Скотта.</p>
+ </section>
+</body>
+
+<binary content-type="image/png" id="jlcvr.png">
+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
+77kcP0kAAAAASUVORK5CYII=
+</binary>
+
+</FictionBook>
+
